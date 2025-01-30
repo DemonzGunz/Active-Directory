@@ -37,9 +37,21 @@ My process of setting up an active directory for my VM home lab
   - you internal will be an ip addres not effected by DHCP so these IP addresses are typically anything between (169.254.0.0 - 169.254.255.255)
  
     ![image](https://github.com/user-attachments/assets/00101d3a-b8c6-4e53-83ba-19b53b3b558f)
+  - Go under properties with  internet protocol version 4
+  - Change your ip address and DNS
+
+    ![image](https://github.com/user-attachments/assets/65d89d35-e976-413f-a598-5c78a3aca12b)
+
+  - Click on add roles and features under the server manager dashboard
+
+    ![image](https://github.com/user-attachments/assets/63805f82-0ac4-4005-8f22-52363e12383f)
 
 
-    ![image](https://github.com/user-attachments/assets/5db60a14-e9a4-4d3c-94da-4e0bd464f779)
+    
+
+
+
+    
     
 
 
