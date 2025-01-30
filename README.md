@@ -53,7 +53,7 @@ My process of setting up an active directory for my VM home lab
 
   - Finish the installation
   - Once done click the notafications and click on promote this server as domain controller
-  - Name you domain set a password click next until you get to the prerequisites check window
+  - Name your domain set a password click next until you get to the prerequisites check window
   - Then install
   - Once installed you are all set to make your Organizational Units and play around with your brand new Active Directory!
     
