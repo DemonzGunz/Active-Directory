@@ -46,6 +46,19 @@ My process of setting up an active directory for my VM home lab
 
     ![image](https://github.com/user-attachments/assets/63805f82-0ac4-4005-8f22-52363e12383f)
 
+  - Click next then selecto your server
+  - After that make sure to select Active Directory Domain Services
+
+    ![image](https://github.com/user-attachments/assets/eb8d8216-2bd9-4a93-8c0f-9f4e62453854)
+
+  - Finish the installation
+  - Once done click the notafications and click on promote this server as domain controller
+  - Name you domain set a password click next until you get to the prerequisites check window
+  - Then install
+  - Once installed you are all set to make your Organizational Units and play around with your brand new Active Directory!
+    
+
+
 
     
 
