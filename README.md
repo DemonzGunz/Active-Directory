@@ -160,7 +160,47 @@ My process of setting up an active directory for my VM home lab
  
     ![image](https://github.com/user-attachments/assets/b6628684-41ce-4c11-aff1-51fc33246fe3)
 
-  - Next will be adding users using a powershell script
+  - Next we will be adding users using a powershell script i found on github
+ 
+  - So I have clicked the start menu
+  - Clicked on powershell
+  - Then right clicked and chose open as administrator
+  - Once powershell has opened i clicked open script in the top right corner
+
+    ![image](https://github.com/user-attachments/assets/664038d8-fdf5-47b2-a7a9-3ebc4aacbffd)
+
+  - Then i found my file with the downloaded script and opened this file
+ 
+    ![image](https://github.com/user-attachments/assets/6a032a12-e8d1-4c8e-981f-4fd2300b566d)
+
+  - We have to allow this script to be unrestriced so I ran this command: Set-ExecutionPolicy Unrestricted
+
+    ![image](https://github.com/user-attachments/assets/18b64ef1-53cf-4d57-a937-9e9e656ccda9)
+
+  - In the pop up window make sure to click yes to all
+  - Changed my directory to the one with the needed file
+  - Make sure to ls and check if you are in the correct directory
+
+    ![image](https://github.com/user-attachments/assets/e083f142-bfcc-4b4e-8d2a-14c582ea852a)
+
+  - Click play and then run once to start the generation process
+ 
+    ![image](https://github.com/user-attachments/assets/e6982b02-552f-4309-b117-a1d6c655ea0c)
+
+  - The blue txt is the creation in progress
+  - If you look in the bottom left corner you will find 1053 users where created
+
+    ![image](https://github.com/user-attachments/assets/dda9346b-e734-4b95-b943-56aeceacdc6c)
+
+
+
+    
+
+    
+
+
+
+
 
 
 
