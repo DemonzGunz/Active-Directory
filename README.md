@@ -192,6 +192,8 @@ My process of setting up an active directory for my VM home lab
 
     ![image](https://github.com/user-attachments/assets/dda9346b-e734-4b95-b943-56aeceacdc6c)
 
+  - Next i will be adding a Windows VM directly ot my windows server as a client
+
 
 
     
